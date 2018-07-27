@@ -5,6 +5,8 @@
 #         self.val = x
 #         self.next = None
 
+#Iterative Method
+
 class Solution(object):
     def reverseList(self, head):
         prev = None
